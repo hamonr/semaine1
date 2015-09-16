@@ -17,7 +17,7 @@ __16 ans__ d'expériences dans le DATA Management et Analytique
 
 ## Mon objectif sur simplonline
 J'adore les __DATA__. J'ai besoin d'enrichir mes compétences en web et numérique pour m'orienter vers la __DATAVIZ__.
-J'espère mettre les mains dans le cambouis pour pouvoir progesser!
+J'espère mettre les mains dans le cambouis pour pouvoir progresser!
 
 
 
